@@ -12,6 +12,10 @@ Snake2D_Custom — это простая 2D змейка, созданная н�
 
 ![Скриншот игры](Cover_for_Snake2d.png)
 
+## Ссылка на скачивание проекта
+
+[Скачать Unity Package](Releases/Snake2D_almost_final.unitypackage)
+
 ## Как играть
 
 - Стрелки или WASD — управление змейкой  
